@@ -7,7 +7,7 @@ All that I use in one big list 😎
 - [Extensions for Visual Studio Code](https://marketplace.visualstudio.com/VSCode)
 - [Published by Microsoft](https://marketplace.visualstudio.com/publishers/Microsoft)
 
-### Emojis meaning
+## Emojis meaning
 
 - 🛠️ tool
 - 🌈 editor design, colors, or syntax
@@ -16,7 +16,7 @@ All that I use in one big list 😎
 - 🤖 AI
 - ⚪ misc
 
-### A
+## A
 
 - ⚪ [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache)
 - 🛠️ [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
@@ -25,13 +25,13 @@ All that I use in one big list 😎
 - 🛠️ [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer)
 - ⚪ [Azure Account](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account)
 
-### B
+## B
 
 - ⚪ [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
 - 🌈 [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 - 🌈 [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
 
-### C
+## C
 
 - 🤖 [ChatGPT](https://marketplace.visualstudio.com/items?itemName=gencay.vscode-chatgpt)
 - ⚪ [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
@@ -40,7 +40,7 @@ All that I use in one big list 😎
 - 🛠️ [Copy With Imports](https://marketplace.visualstudio.com/items?itemName=stringham.copy-with-imports)
 - 🛠️ [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 
-### D
+## D
 
 - 🛠️ 🐛 [Debugger for Firefox](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug)
 - ⚪ [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
@@ -48,25 +48,25 @@ All that I use in one big list 😎
 - 🌈 [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 - ⭐ 🌈 [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 
-### E
+## E
 
 - ⭐ 🛠️ [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 - ⭐ 🐛 [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 - ⚪ [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 - ⭐ 🐛 [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
-### G
+## G
 
 - ⚪ [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 - 🤖 [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 - ⚪ [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
-### H
+## H
 
 - 🛠️ [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag)
 - ⚪ [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
 
-### I
+## I
 
 - ⚪ [i18n Ally](https://marketplace.visualstudio.com/items?itemName=Lokalise.i18n-ally)
 - ⚪ [Image Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
@@ -76,19 +76,19 @@ All that I use in one big list 😎
 - 🌈 [Indenticator](https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator)
 - ⚪ [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
 
-### J
+## J
 
 - ⚪ [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 - 🐛 [JavaScript Debugger](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly)
 - 🐛 [JEST](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
 - ⚪ [JSON](https://marketplace.visualstudio.com/items?itemName=ZainChen.json)
 
-### L
+## L
 
 - ⚪ [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
 - ⚪ [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
-### M
+## M
 
 - ⚪ [Markdown ALl in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - 🌈 [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
@@ -97,29 +97,29 @@ All that I use in one big list 😎
 - ⚪ [MDX](https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx)
 - 🛠️ 🐛 [Microsoft Edge Tools for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools)
 
-### N
+## N
 
 - ⚪ [Nyan Cat](https://marketplace.visualstudio.com/items?itemName=zhengrenzhe.nyan-cat)
 
-### O
+## O
 
 - ⚪ [Open in Browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)
 - ⚪ [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
 
-### P
+## P
 
 - ⭐ [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
 - ⚪ [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - ⚪ [PostCSS Sorting](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-postcss-sorting)
 - ⭐ [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-### R
+## R
 
 - ⚪ [React Proptypes Intellisense](https://marketplace.visualstudio.com/items?itemName=OfHumanBondage.react-proptypes-intellisense)
 - ⚪ [Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
 - ⚪ [Redux DevTools](https://marketplace.visualstudio.com/items?itemName=jingkaizhao.vscode-redux-devtools)
 
-### S
+## S
 
 - 🌈 [Sass](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
 - ⚪ [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
@@ -127,14 +127,14 @@ All that I use in one big list 😎
 - 🌈 [SVG Preview](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview)
 - ⚪ [Syntax highlighting for yarn.lock files](https://marketplace.visualstudio.com/items?itemName=mariusschulz.yarn-lock-syntax)
 
-### T
+## T
 
 - ⚪ [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 - ⚪ [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 - 🌈 [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 - 🐛 [TypeScript Debugger](https://marketplace.visualstudio.com/items?itemName=kakumei.ts-debug)
 
-### X
+## X
 
 - ⚪ [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
 - ⚪ [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
