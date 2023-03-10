@@ -51,9 +51,9 @@ All that I use in one big list 😎
 ### E
 
 - ⭐ 🛠️ [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
-- ⭐ 🛠️ 🐛 [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+- ⭐ 🐛 [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 - ⚪ [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
-- ⭐ [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- ⭐ 🐛 [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 ### G
 
@@ -92,7 +92,7 @@ All that I use in one big list 😎
 
 - ⚪ [Markdown ALl in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - 🌈 [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
-- 🛠️ [Markdown Lint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+- ⭐ 🐛 [Markdown Lint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - 🌈 ⭐ [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - ⚪ [MDX](https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx)
 - 🛠️ 🐛 [Microsoft Edge Tools for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools)
@@ -123,7 +123,7 @@ All that I use in one big list 😎
 
 - 🌈 [Sass](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
 - ⚪ [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
-- ⭐ 🌈 🛠️ [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
+- ⭐ 🐛 [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 - 🌈 [SVG Preview](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview)
 - ⚪ [Syntax highlighting for yarn.lock files](https://marketplace.visualstudio.com/items?itemName=mariusschulz.yarn-lock-syntax)
 
