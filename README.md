@@ -1,6 +1,6 @@
 # Extensions for Visual Studio Code
 
-All that I use in one big list 😎
+Visual Studio Code extensions I use 😎
 
 ## Marketplace
 
