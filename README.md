@@ -1,4 +1,4 @@
-# Extensions for Visual Studio Code
+#  Visual Studio Code - Extensions
 
 Visual Studio Code extensions I use 😎
 
