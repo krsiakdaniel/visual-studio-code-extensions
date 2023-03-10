@@ -42,18 +42,18 @@ Visual Studio Code extensions I use 😎
 
 ## D
 
-- 🛠️ 🐛 [Debugger for Firefox](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug)
+- 🐛 [Debugger for Firefox](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug)
 - ⚪ [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 - ⚪ [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 - 🌈 [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
-- ⭐ 🌈 [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
+- 🌈 ⭐ [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 
 ## E
 
-- ⭐ 🛠️ [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
-- ⭐ 🐛 [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+- 🛠️ ⭐ [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+- 🐛 ⭐ [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 - ⚪ [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
-- ⭐ 🐛 [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- 🐛 ⭐ [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 ## G
 
@@ -92,10 +92,10 @@ Visual Studio Code extensions I use 😎
 
 - ⚪ [Markdown ALl in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - 🌈 [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
-- ⭐ 🐛 [Markdown Lint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+- 🐛 ⭐ [Markdown Lint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - 🌈 ⭐ [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - ⚪ [MDX](https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx)
-- 🛠️ 🐛 [Microsoft Edge Tools for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools)
+- 🐛 [Microsoft Edge Tools for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools)
 
 ## N
 
@@ -123,7 +123,7 @@ Visual Studio Code extensions I use 😎
 
 - 🌈 [Sass](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
 - ⚪ [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
-- ⭐ 🐛 [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
+- 🐛 ⭐ [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 - 🌈 [SVG Preview](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview)
 - ⚪ [Syntax highlighting for yarn.lock files](https://marketplace.visualstudio.com/items?itemName=mariusschulz.yarn-lock-syntax)
 
