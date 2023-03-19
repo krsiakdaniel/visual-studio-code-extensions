@@ -114,6 +114,7 @@ Visual Studio Code extensions I use 😎
 
 ## R
 
+- 🛠️ [React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)
 - ⚪ [React Proptypes Intellisense](https://marketplace.visualstudio.com/items?itemName=OfHumanBondage.react-proptypes-intellisense)
 - ⚪ [Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
 - ⚪ [Redux DevTools](https://marketplace.visualstudio.com/items?itemName=jingkaizhao.vscode-redux-devtools)
