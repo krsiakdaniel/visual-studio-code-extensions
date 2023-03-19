@@ -123,6 +123,7 @@ Visual Studio Code extensions I use 😎
 
 - 🌈 [Sass](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
 - ⚪ [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
+- 🛠️ [Sort JSON objects](https://marketplace.visualstudio.com/items?itemName=richie5um2.vscode-sort-json)
 - 🐛 ⭐ [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 - 🌈 [SVG Preview](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview)
 - ⚪ [Syntax highlighting for yarn.lock files](https://marketplace.visualstudio.com/items?itemName=mariusschulz.yarn-lock-syntax)
