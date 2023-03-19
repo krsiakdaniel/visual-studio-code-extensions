@@ -33,7 +33,6 @@ Visual Studio Code extensions I use 😎
 
 ## C
 
-- 🤖 [ChatGPT](https://marketplace.visualstudio.com/items?itemName=gencay.vscode-chatgpt)
 - ⚪ [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 - 🌈 [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 - 🛠️ [Copy Relative Path](https://marketplace.visualstudio.com/items?itemName=alexdima.copy-relative-path)
