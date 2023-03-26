@@ -95,6 +95,7 @@ Visual Studio Code extensions I use 😎
 - 🌈 ⭐ [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - ⚪ [MDX](https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx)
 - 🐛 [Microsoft Edge Tools for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools)
+- ⚪ [multi-command](https://marketplace.visualstudio.com/items?itemName=ryuta46.multi-command)
 
 ## N
 
