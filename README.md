@@ -1,6 +1,6 @@
 # Visual Studio Code - Extensions
 
-Visual Studio Code extensions I use 😎
+Visual Studio Code extensions I use 💻
 
 ## Marketplace
 
@@ -29,7 +29,6 @@ Visual Studio Code extensions I use 😎
 
 - ⚪ [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
 - 🌈 [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
-- 🌈 [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
 
 ## C
 
@@ -53,11 +52,15 @@ Visual Studio Code extensions I use 😎
 - 🐛 ⭐ [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 - ⚪ [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 - 🐛 ⭐ [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- 🌈 [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml)
 
 ## G
 
 - ⚪ [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 - 🤖 [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+- 🤖 [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
+- 🤖 [GitHub Copilot Labs](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs)
+- 🤖 [GitHub Copilot Voice](https://marketplace.visualstudio.com/items?itemName=GitHub.heygithub)
 - ⚪ [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 ## H
@@ -111,7 +114,8 @@ Visual Studio Code extensions I use 😎
 - ⭐ [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
 - ⚪ [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - ⚪ [PostCSS Sorting](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-postcss-sorting)
-- ⭐ [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- 🌈 ⭐ [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- 🌈 ⭐ [Pretty TypeScript Errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
 
 ## R
 
@@ -132,8 +136,9 @@ Visual Studio Code extensions I use 😎
 ## T
 
 - ⚪ [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
-- ⚪ [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
+- 🛠️ [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 - 🌈 [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+- 🛠️ [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
 - 🐛 [TypeScript Debugger](https://marketplace.visualstudio.com/items?itemName=kakumei.ts-debug)
 
 ## X
