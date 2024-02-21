@@ -135,7 +135,7 @@ Visual Studio Code extensions I use 💻
 
 ## V
 
-- [VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech)
+- 🛠️ [VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech)
 
 ## X
 
