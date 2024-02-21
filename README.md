@@ -117,9 +117,6 @@ Visual Studio Code extensions I use 💻
 
 ## R
 
-- 🛠️ [React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)
-- ⚪ [React Proptypes Intellisense](https://marketplace.visualstudio.com/items?itemName=OfHumanBondage.react-proptypes-intellisense)
-- ⚪ [Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
 - ⚪ [Redux DevTools](https://marketplace.visualstudio.com/items?itemName=jingkaizhao.vscode-redux-devtools)
 
 ## S
@@ -134,10 +131,11 @@ Visual Studio Code extensions I use 💻
 ## T
 
 - ⚪ [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
-- 🛠️ [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 - 🌈 [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
-- 🛠️ [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
-- 🐛 [TypeScript Debugger](https://marketplace.visualstudio.com/items?itemName=kakumei.ts-debug)
+
+## V
+
+- [VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech)
 
 ## X
 
