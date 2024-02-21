@@ -23,7 +23,6 @@ Visual Studio Code extensions I use 💻
 - 🛠️ [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
 - 🛠️ [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - 🛠️ [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer)
-- ⚪ [Azure Account](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account)
 
 ## B
 
@@ -41,7 +40,6 @@ Visual Studio Code extensions I use 💻
 ## D
 
 - 🐛 [Debugger for Firefox](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug)
-- ⚪ [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 - ⚪ [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 - 🌈 [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 - 🌈 ⭐ [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
@@ -49,8 +47,6 @@ Visual Studio Code extensions I use 💻
 ## E
 
 - 🛠️ ⭐ [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
-- 🐛 ⭐ [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
-- ⚪ [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 - 🐛 ⭐ [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - 🌈 [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml)
 
@@ -59,9 +55,13 @@ Visual Studio Code extensions I use 💻
 - ⚪ [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 - 🤖 [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 - 🤖 [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
-- 🤖 [GitHub Copilot Labs](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs)
 - 🤖 [GitHub Copilot Voice](https://marketplace.visualstudio.com/items?itemName=GitHub.heygithub)
 - ⚪ [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
+## G
+
+- ⚪ [GraphQL: Language Feature Support](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql)
+- 🌈 [GraphQL: Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql-syntax)
 
 ## H
 
@@ -80,10 +80,7 @@ Visual Studio Code extensions I use 💻
 
 ## J
 
-- ⚪ [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
-- 🐛 [JavaScript Debugger](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly)
 - 🐛 [JEST](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
-- ⚪ [JSON](https://marketplace.visualstudio.com/items?itemName=ZainChen.json)
 
 ## L
 
@@ -92,7 +89,7 @@ Visual Studio Code extensions I use 💻
 
 ## M
 
-- ⚪ [Markdown ALl in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+- ⚪ [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - 🌈 [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 - 🐛 ⭐ [Markdown Lint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - 🌈 ⭐ [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
@@ -113,6 +110,7 @@ Visual Studio Code extensions I use 💻
 
 - ⭐ [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
 - ⚪ [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+- 🐛 [Playwright Test for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright)
 - ⚪ [PostCSS Sorting](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-postcss-sorting)
 - 🌈 ⭐ [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - 🌈 ⭐ [Pretty TypeScript Errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
