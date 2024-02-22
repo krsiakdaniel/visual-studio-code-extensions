@@ -71,7 +71,7 @@ Visual Studio Code extensions I use 💻
 ## I
 
 - ⚪ [i18n Ally](https://marketplace.visualstudio.com/items?itemName=Lokalise.i18n-ally)
-- ⚪ [Image Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
+- 🛠️ [Image Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
 - ⚪ [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 - 🌈 [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 - 🌈 [Indented Block Highlighting](https://marketplace.visualstudio.com/items?itemName=byi8220.indented-block-highlighting)
@@ -84,8 +84,8 @@ Visual Studio Code extensions I use 💻
 
 ## L
 
-- ⚪ [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
-- ⚪ [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- 🛠️ [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
+- 🛠️ [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 ## M
 
@@ -93,7 +93,7 @@ Visual Studio Code extensions I use 💻
 - 🌈 [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 - 🐛 ⭐ [Markdown Lint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - 🌈 ⭐ [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-- ⚪ [MDX](https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx)
+- 🌈 [MDX](https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx)
 - 🐛 [Microsoft Edge Tools for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools)
 - ⚪ [multi-command](https://marketplace.visualstudio.com/items?itemName=ryuta46.multi-command)
 
@@ -104,7 +104,7 @@ Visual Studio Code extensions I use 💻
 ## O
 
 - ⚪ [Open in Browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)
-- ⚪ [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
+- 🌈 [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
 
 ## P
 
@@ -117,7 +117,7 @@ Visual Studio Code extensions I use 💻
 
 ## R
 
-- ⚪ [Redux DevTools](https://marketplace.visualstudio.com/items?itemName=jingkaizhao.vscode-redux-devtools)
+- 🛠️ [Redux DevTools](https://marketplace.visualstudio.com/items?itemName=jingkaizhao.vscode-redux-devtools)
 
 ## S
 
@@ -126,7 +126,7 @@ Visual Studio Code extensions I use 💻
 - 🛠️ [Sort JSON objects](https://marketplace.visualstudio.com/items?itemName=richie5um2.vscode-sort-json)
 - 🐛 ⭐ [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 - 🌈 [SVG Preview](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview)
-- ⚪ [Syntax highlighting for yarn.lock files](https://marketplace.visualstudio.com/items?itemName=mariusschulz.yarn-lock-syntax)
+- 🌈 [Syntax highlighting for yarn.lock files](https://marketplace.visualstudio.com/items?itemName=mariusschulz.yarn-lock-syntax)
 
 ## T
 
@@ -140,5 +140,5 @@ Visual Studio Code extensions I use 💻
 ## X
 
 - ⚪ [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
-- ⚪ [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
+- 🛠️ [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
 - 🌈 [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
