@@ -47,6 +47,7 @@ Visual Studio Code extensions I use 💻
 ## E
 
 - 🛠️ ⭐ [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+- 🛠️ [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 - 🐛 ⭐ [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - 🌈 [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml)
 
