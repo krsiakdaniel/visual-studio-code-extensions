@@ -136,6 +136,7 @@ There is gist [settings.json](https://gist.github.com/krsiakdaniel/81857766d5602
 ## T
 
 - ⚪ [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+- 🌈 [Tailwind Shades](https://marketplace.visualstudio.com/items?itemName=bourhaouta.tailwindshades)
 - 🛠️ [Thunder Client](https://www.thunderclient.com/)
 - 🌈 [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
