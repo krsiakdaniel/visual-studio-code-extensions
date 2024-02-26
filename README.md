@@ -133,7 +133,7 @@ Visual Studio Code extensions I use 💻
 
 - ⚪ [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 - 🛠️ [Thunder Client](https://www.thunderclient.com/)
-- 🌈 [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+- 🌈 [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 
 ## V
 
