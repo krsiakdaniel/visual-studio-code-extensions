@@ -7,7 +7,11 @@ Visual Studio Code extensions I use 💻
 - [Extensions for Visual Studio Code](https://marketplace.visualstudio.com/VSCode)
 - [Published by Microsoft](https://marketplace.visualstudio.com/publishers/Microsoft)
 
-## Emojis meaning
+## VSC Settings
+
+There is gist [settings.json](https://gist.github.com/krsiakdaniel/81857766d5602a1629bdd4d7c3917e5a) with VSC settings related to these extensions.
+
+## Emojis Meaning
 
 - 🛠️ tool
 - 🌈 editor design, colors, or syntax
