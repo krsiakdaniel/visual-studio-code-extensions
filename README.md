@@ -65,6 +65,7 @@ There is gist [settings.json](https://gist.github.com/krsiakdaniel/81857766d5602
 
 ## G
 
+- 🛠️ [GitHub Actions](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions)
 - ⚪ [GraphQL: Language Feature Support](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql)
 - 🌈 [GraphQL: Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql-syntax)
 
