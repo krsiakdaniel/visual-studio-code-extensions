@@ -46,7 +46,7 @@ There is gist [settings.json](https://gist.github.com/krsiakdaniel/81857766d5602
 - 🐛 [Debugger for Firefox](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug)
 - ⚪ [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 - 🌈 [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
-- 🌈 ⭐ [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
+- 🌈 ⭐ [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 
 ## E
 
@@ -58,14 +58,11 @@ There is gist [settings.json](https://gist.github.com/krsiakdaniel/81857766d5602
 ## G
 
 - ⚪ [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+- 🛠️ [GitHub Actions](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions)
 - 🤖 [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 - 🤖 [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
-- 🤖 [GitHub Copilot Voice](https://marketplace.visualstudio.com/items?itemName=GitHub.heygithub)
+- ⚪ [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
 - ⚪ [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-
-## G
-
-- 🛠️ [GitHub Actions](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions)
 - ⚪ [GraphQL: Language Feature Support](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql)
 - 🌈 [GraphQL: Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql-syntax)
 
@@ -76,7 +73,6 @@ There is gist [settings.json](https://gist.github.com/krsiakdaniel/81857766d5602
 
 ## I
 
-- ⚪ [i18n Ally](https://marketplace.visualstudio.com/items?itemName=Lokalise.i18n-ally)
 - 🛠️ [Image Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
 - ⚪ [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 - 🌈 [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
@@ -102,6 +98,7 @@ There is gist [settings.json](https://gist.github.com/krsiakdaniel/81857766d5602
 - 🌈 [MDX](https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx)
 - 🐛 [Microsoft Edge Tools for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools)
 - ⚪ [multi-command](https://marketplace.visualstudio.com/items?itemName=ryuta46.multi-command)
+- ⚪ [Nx Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console)
 
 ## N
 
@@ -138,8 +135,9 @@ There is gist [settings.json](https://gist.github.com/krsiakdaniel/81857766d5602
 
 - ⚪ [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 - 🌈 [Tailwind Shades](https://marketplace.visualstudio.com/items?itemName=bourhaouta.tailwindshades)
-- 🛠️ [Thunder Client](https://www.thunderclient.com/)
+- ⚪ [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 - 🌈 [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+- 🛠️ [TypeScript Barrel Generator](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-typescript-exportallmodules)
 
 ## V
 
