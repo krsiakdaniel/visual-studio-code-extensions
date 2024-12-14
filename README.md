@@ -129,6 +129,7 @@ There is gist [settings.json](https://gist.github.com/krsiakdaniel/81857766d5602
 - 🛠️ [Sort JSON objects](https://marketplace.visualstudio.com/items?itemName=richie5um2.vscode-sort-json)
 - 🐛 ⭐ [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 - 🌈 [SVG Preview](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview)
+- 🌈 [Stardew-Pets](https://github.com/BOTPanzer/Stardew-Pets)
 - 🌈 [Syntax highlighting for yarn.lock files](https://marketplace.visualstudio.com/items?itemName=mariusschulz.yarn-lock-syntax)
 
 ## T
