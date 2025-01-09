@@ -61,6 +61,7 @@ There is gist [settings.json](https://gist.github.com/krsiakdaniel/81857766d5602
 - 🛠️ [GitHub Actions](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions)
 - 🤖 [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 - 🤖 [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
+- 🤖 [GitHub Copilot Workspace](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-workspace)
 - ⚪ [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
 - ⚪ [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - ⚪ [GraphQL: Language Feature Support](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql)
