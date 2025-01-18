@@ -114,6 +114,7 @@ There is gist [settings.json](https://gist.github.com/krsiakdaniel/81857766d5602
 
 - ⭐ [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
 - ⚪ [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+- 🐛 [Playwright CRX](https://chromewebstore.google.com/detail/playwright-crx/jambeljnbnfbkcpnoiaedcabbgmnnlcd)
 - 🐛 [Playwright Test for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright)
 - ⚪ [PostCSS Sorting](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-postcss-sorting)
 - 🌈 ⭐ [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
