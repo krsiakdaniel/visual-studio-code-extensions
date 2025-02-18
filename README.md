@@ -116,6 +116,7 @@ There is gist [settings.json](https://gist.github.com/krsiakdaniel/81857766d5602
 - ⚪ [PostCSS Sorting](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-postcss-sorting)
 - 🌈 ⭐ [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - 🌈 ⭐ [Pretty TypeScript Errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
+- 🛠️ [Prophet Debugger](https://marketplace.visualstudio.com/items?itemName=SqrTT.prophet)
 - ⭐ [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
 ## R
