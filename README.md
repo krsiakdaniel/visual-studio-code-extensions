@@ -13,12 +13,14 @@ There is gist [settings.json](https://gist.github.com/krsiakdaniel/81857766d5602
 
 ## Emojis Meaning
 
-- 🛠️ tool
-- 🌈 editor design, colors, or syntax
-- 🐛 debugging
-- ⭐ favourite
-- 🤖 AI
-- ⚪ misc
+| Emoji | Meaning |
+|-------|---------|
+| 🛠️ | Tool |
+| 🌈 | Editor design, colors, or syntax |
+| 🐛 | Debugging |
+| ⭐ | Favourite |
+| 🤖 | AI |
+| ⚪ | Misc |
 
 ## A
 
@@ -90,8 +92,8 @@ There is gist [settings.json](https://gist.github.com/krsiakdaniel/81857766d5602
 ## M
 
 - ⚪ [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-- 🌈 [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 - 🐛 ⭐ [Markdown Lint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+- 🌈 [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 - 🌈 ⭐ [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - 🌈 [MDX](https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx)
 - 🐛 [Microsoft Edge Tools for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools)
@@ -128,9 +130,9 @@ There is gist [settings.json](https://gist.github.com/krsiakdaniel/81857766d5602
 - 🌈 [Sass](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
 - ⚪ [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
 - 🛠️ [Sort JSON objects](https://marketplace.visualstudio.com/items?itemName=richie5um2.vscode-sort-json)
+- 🌈 [Stardew-Pets](https://github.com/BOTPanzer/Stardew-Pets)
 - 🐛 ⭐ [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 - 🌈 [SVG Preview](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview)
-- 🌈 [Stardew-Pets](https://github.com/BOTPanzer/Stardew-Pets)
 - 🌈 [Syntax highlighting for yarn.lock files](https://marketplace.visualstudio.com/items?itemName=mariusschulz.yarn-lock-syntax)
 
 ## T
