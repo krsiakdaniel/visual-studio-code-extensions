@@ -1,154 +1,83 @@
 # Visual Studio Code - Extensions
 
-Visual Studio Code extensions I use 💻
+💻 Visual Studio Code extensions I use. 
 
 ## Marketplace
 
 - [Extensions for Visual Studio Code](https://marketplace.visualstudio.com/VSCode)
 - [Published by Microsoft](https://marketplace.visualstudio.com/publishers/Microsoft)
 
-## VSC Settings
+## Development & Language Support
 
-There is gist [settings.json](https://gist.github.com/krsiakdaniel/81857766d5602a1629bdd4d7c3917e5a) with VSC settings related to these extensions.
+- [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=github.copilot) - GitHub Copilot AI assistant
+- [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=github.copilot-chat) - GitHub Copilot Chat
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - ESLint integration
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Prettier code formatter
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Python language support
+- [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) - Python IntelliSense
+- [Debugpy](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy) - Python debugger
+- [Python Environment Manager](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-python-envs) - Python environment management
+- [Jest](https://marketplace.visualstudio.com/items?itemName=orta.vscode-jest) - Jest test runner
+- [Playwright](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright) - Playwright testing framework
+- [GraphQL: Language Feature Support](https://marketplace.visualstudio.com/items?itemName=graphql.vscode-graphql) - GraphQL language support
+- [GraphQL: Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=graphql.vscode-graphql-syntax) - GraphQL syntax highlighting
+- [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel) - Babel JavaScript support
+- [MDX](https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx) - MDX support
 
-## Emojis Meaning
+## Git & Version Control
 
-| Emoji | Meaning |
-|-------|---------|
-| 🛠️ | Tool |
-| 🌈 | Editor design, colors, or syntax |
-| 🐛 | Debugging |
-| ⭐ | Favourite |
-| 🤖 | AI |
-| ⚪ | Misc |
+- [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Enhanced Git capabilities
+- [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - Git history visualization
+- [GitHub Actions](https://marketplace.visualstudio.com/items?itemName=github.vscode-github-actions) - GitHub Actions integration
+- [Git Blame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame) - Git blame annotations
 
-## A
+## Code Quality & Formatting
 
-- ⚪ [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache)
-- 🛠️ [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
-- 🛠️ [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
-- 🛠️ [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
-- 🛠️ [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer)
+- [EditorConfig](https://marketplace.visualstudio.com/items?itemName=editorconfig.editorconfig) - EditorConfig support
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spell checker
+- [Czech Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-czech) - Czech spell checker
+- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Enhanced error visualization
+- [Pretty TypeScript Errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors) - Prettier TypeScript errors
+- [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer) - CSS autoprefixer
+- [PostCSS Sorting](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-postcss-sorting) - PostCSS sorting
 
-## B
+## Visual Enhancements & Themes
 
-- ⚪ [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
-- 🌈 [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=pkief.material-icon-theme) - Material icon theme
+- [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) - Color highlighting
+- [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) - Rainbow indentation
+- [Indenticator](https://marketplace.visualstudio.com/items?itemName=sirtori.indenticator) - Indentation guides
+- [Indented Block Highlighting](https://marketplace.visualstudio.com/items?itemName=byi8220.indented-block-highlighting) - Block highlighting
+- [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - Matching tag highlighting
+- [Nyan Cat](https://marketplace.visualstudio.com/items?itemName=zhengrenzhe.nyan-cat) - Fun Nyan Cat theme
 
-## C
+## Productivity & Navigation
 
-- ⚪ [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
-- 🌈 [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
-- 🛠️ [Copy Relative Path](https://marketplace.visualstudio.com/items?itemName=alexdima.copy-relative-path)
-- 🛠️ [Copy With Imports](https://marketplace.visualstudio.com/items?itemName=stringham.copy-with-imports)
-- 🛠️ [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+- [Copy Relative Path](https://marketplace.visualstudio.com/items?itemName=alexdima.copy-relative-path) - Copy relative file paths
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - Auto close HTML tags
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Auto rename paired tags
+- [Todo Tree](https://marketplace.visualstudio.com/items?itemName=gruntfuggly.todo-tree) - TODO comment management
+- [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - TODO highlighting
+- [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) - Auto import suggestions
+- [Copy With Imports](https://marketplace.visualstudio.com/items?itemName=stringham.copy-with-imports) - Copy code with imports
+- [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - Import cost display
 
-## D
+## File Format Support
 
-- 🐛 [Debugger for Firefox](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug)
-- ⚪ [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
-- 🌈 [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
-- 🌈 ⭐ [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
+- [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) - XML language support
+- [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML language support
+- [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml) - TOML language support
+- [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - .env file support
+- [Sass](https://marketplace.visualstudio.com/items?itemName=syler.sass-indented) - Sass indented syntax
+- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) - CSV file handling
+- [SVG Preview](https://marketplace.visualstudio.com/items?itemName=simonsiefke.svg-preview) - SVG preview
+- [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) - Enhanced Markdown preview
+- [Markdownlint](https://marketplace.visualstudio.com/items?itemName=davidanson.vscode-markdownlint) - Markdown linting
 
-## E
+## Utility Extensions
 
-- 🛠️ ⭐ [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
-- 🛠️ [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
-- 🐛 ⭐ [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-- 🌈 [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml)
+- [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=ibm.output-colorizer) - Colorized output
+- [Gutter Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview) - Gutter preview
+- [VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech) - Speech capabilities
 
-## G
-
-- ⚪ [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
-- 🛠️ [GitHub Actions](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions)
-- ⚪ [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
-- ⚪ [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-- ⚪ [GraphQL: Language Feature Support](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql)
-- 🌈 [GraphQL: Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql-syntax)
-
-## H
-
-- 🛠️ [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag)
-- ⚪ [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
-
-## I
-
-- 🛠️ [Image Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
-- ⚪ [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
-- 🌈 [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
-- 🌈 [Indented Block Highlighting](https://marketplace.visualstudio.com/items?itemName=byi8220.indented-block-highlighting)
-- 🌈 [Indenticator](https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator)
-- ⚪ [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
-
-## J
-
-- 🐛 [JEST](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
-
-## L
-
-- 🛠️ [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
-- 🛠️ [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-
-## M
-
-- ⚪ [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-- 🐛 ⭐ [Markdown Lint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
-- 🌈 [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
-- 🌈 ⭐ [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-- 🌈 [MDX](https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx)
-- 🐛 [Microsoft Edge Tools for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools)
-- ⚪ [multi-command](https://marketplace.visualstudio.com/items?itemName=ryuta46.multi-command)
-- ⚪ [Nx Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console)
-
-## N
-
-- ⚪ [Nyan Cat](https://marketplace.visualstudio.com/items?itemName=zhengrenzhe.nyan-cat)
-
-## O
-
-- ⚪ [Open in Browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)
-- 🌈 [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
-
-## P
-
-- ⭐ [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
-- ⚪ [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
-- 🐛 [Playwright CRX](https://chromewebstore.google.com/detail/playwright-crx/jambeljnbnfbkcpnoiaedcabbgmnnlcd)
-- 🐛 [Playwright Test for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright)
-- ⚪ [PostCSS Sorting](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-postcss-sorting)
-- 🌈 ⭐ [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- 🌈 ⭐ [Pretty TypeScript Errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
-- 🛠️ [Prophet Debugger](https://marketplace.visualstudio.com/items?itemName=SqrTT.prophet)
-- ⭐ [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-
-## R
-
-- 🛠️ [Redux DevTools](https://marketplace.visualstudio.com/items?itemName=jingkaizhao.vscode-redux-devtools)
-
-## S
-
-- 🌈 [Sass](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
-- ⚪ [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
-- 🛠️ [Sort JSON objects](https://marketplace.visualstudio.com/items?itemName=richie5um2.vscode-sort-json)
-- 🌈 [Stardew-Pets](https://github.com/BOTPanzer/Stardew-Pets)
-- 🐛 ⭐ [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
-- 🌈 [SVG Preview](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview)
-- 🌈 [Syntax highlighting for yarn.lock files](https://marketplace.visualstudio.com/items?itemName=mariusschulz.yarn-lock-syntax)
-
-## T
-
-- ⚪ [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
-- 🌈 [Tailwind Shades](https://marketplace.visualstudio.com/items?itemName=bourhaouta.tailwindshades)
-- ⚪ [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
-- 🌈 [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
-- 🛠️ [TypeScript Barrel Generator](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-typescript-exportallmodules)
-
-## V
-
-- 🛠️ [VS Code Speech](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-speech)
-
-## X
-
-- ⚪ [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
-- 🛠️ [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
-- 🌈 [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+---
